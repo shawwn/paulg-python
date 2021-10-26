@@ -1,0 +1,1 @@
+from paulg import __version__
